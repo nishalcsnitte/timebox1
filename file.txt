@@ -1,3 +1,4 @@
 planning and research 
 design,coding
 texting
+deployment
